@@ -1,5 +1,4 @@
----
-
+"""
 ### AWS Market Share and Recommendation:
 - **AWS** holds the largest market share among cloud platforms, followed by **Azure** and **GCP**.
 - Learning **AWS** is highly recommended for beginners due to its popularity and high job demand.
@@ -40,5 +39,4 @@
 
 ### Easy AWS Onboarding:
 - AWS simplifies access for users, making it easy for startups and businesses to utilize cloud services without heavy initial investments. Its user-friendly onboarding process is a significant reason for its broad adoption.
-
----
+"""
